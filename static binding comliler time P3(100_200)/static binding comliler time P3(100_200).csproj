@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>static_binding_comliler_time_P3_100_200_</RootNamespace>
+  </PropertyGroup>
+
+</Project>
